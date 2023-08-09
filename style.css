@@ -71,6 +71,7 @@ table {
     width: 65%;
     float: left;
     margin-left: 15px;
+    position: absolute;
 }
 
 th,
