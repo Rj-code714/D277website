@@ -47,6 +47,7 @@ aside {
 
 .page-title {
     text-align: center;
+    position: absolute;
 }
 
 .card-body {
@@ -71,7 +72,6 @@ table {
     width: 65%;
     float: left;
     margin-left: 15px;
-    position: absolute;
 }
 
 th,
