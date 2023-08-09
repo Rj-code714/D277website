@@ -82,7 +82,6 @@ td {
 }
 
 #floating {
-    float: inline-end;
     width: 30%;
     margin-right: 15px;
 }
